@@ -1,3 +1,4 @@
+pub mod metalpriceapi_provider;
 pub mod alpha_vantage_provider;
 pub mod manual_provider;
 pub mod market_data_provider;
